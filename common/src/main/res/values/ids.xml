@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="empty_item_id" type="id" />
+    <item name="loader_item_id" type="id" />
+    <item name="error_with_repeat_id" type="id" />
+</resources>
