@@ -1,3 +1,3 @@
-# tedu-android
+# Showcase
 
-monorep for android projects
+Showcase for mvvm project
